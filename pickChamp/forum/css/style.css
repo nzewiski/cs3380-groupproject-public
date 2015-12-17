@@ -1,0 +1,53 @@
+h1{ text-align:center;}
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.container{
+	width: auto;
+	height: auto;
+	margin-bottom: 50px;
+	padding: 10px;
+	
+}
+body {
+    margin: 0 0 60px; /* bottom = footer height */
+    width: auto;
+	height: auto;
+}
+form{
+	margin:65px;
+}
+
+.container{
+	height: auto;
+	width: 100%;
+}
+
+.post_count, .post_time{
+	font-size: 80%;
+}
+
+
+
+
+
+footer {
+    position: absolute;
+    margin-top: 30px;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+nav p{
+	color: white;
+	font-size: 11px;
+}
+
+
+.form-actions{
+	
+	text-align: center;
+}
